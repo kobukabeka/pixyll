@@ -4,7 +4,7 @@ email:       uinkib@gmail.com
 author:      Kibuin
 description: ""
 baseurl:     ""
-url:         ""
+url:         "http://legit-opossum.cloudvent.net"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
